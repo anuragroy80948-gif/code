@@ -1,0 +1,1 @@
+ int target = 42; // hardcoded target number

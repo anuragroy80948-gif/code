@@ -16,5 +16,4 @@ int main(){
     area(r,area_c);
 
     return 0;
-
 }
