@@ -1,1 +1,1 @@
- int target = 42; // hardcoded target number
+for (int i=1;i<=n;i++){
